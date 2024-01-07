@@ -1,0 +1,11 @@
+## K Fold cross-validation
+
+K-fold cross-validation is a valuable technique for model evaluation and helps in 
+obtaining a more accurate and reliable estimate of a model's performance on unseen data.
+
+We divide the samples into folds. Say, we have 100 samples then we fold them into 5 folds 
+each containing 20 samples. Then we train the model with the last 4 folds and for testing we 
+use the first 1 fold and finally note down the score.
+
+Then we use 2nd fold for testing and the rest of the folds for training. And repeat the process. 
+Finally, we, average all the scores.
