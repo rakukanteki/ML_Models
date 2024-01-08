@@ -14,26 +14,3 @@ ML_Model repository contains some Machine Learning Models. And these models are 
 10) K Fold Cross Validation.
 11) K Means Clustering Algorithm.
 12) Naive Bayes Classifier Algorithm.
-
-## Functions and modules:
-- word2number
-- numpy
-- pandas
-- sklearn
-- math.isclose()
-- SVC()
-- ensemble
-- K Fold
-- Cross Validation
-- StratifiedKFold()
-- cross_val_score
-- pd.get_dummies()
-- pd.concat()
-- Label Encoder
-- fit_transform
-- Column Transformer
-- KMeans
-- sklearn.preprocessing MinMaxScaler
-- matplotlib pyplot
-  %matplotlib inline
-  
