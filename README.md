@@ -15,3 +15,6 @@ ML_Model repository contains some Machine Learning Models. And these models are 
 11) K Means Clustering Algorithm.
 12) Naive Bayes Classifier Algorithm.
 13) Hyper Parameter Tuning. [ GridSearchCV, RandomSearchCV ]
+14) Kth Nearest Neighbour.
+15) Principal Component Analysis.
+
