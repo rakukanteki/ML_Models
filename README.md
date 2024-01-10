@@ -1,7 +1,7 @@
 # About
 ML_Model repository contains some Machine Learning Models. And these models are models are created inorder to learn basic concepts of machine learning. This repository contains no projects but just models.
 
-## Contents:
+## Contents covered:
 1) Linear Regression. ( Single & Multiple variables )
 2) Gradient Descent.
 3) What is joblib and pickle file.
@@ -25,4 +25,5 @@ ML_Model repository contains some Machine Learning Models. And these models are 
     - Balanced fit
     - High Bias
     - Low Bias
-17) 
+17) Ensemble Learning. ( Bagging Classifier )
+
